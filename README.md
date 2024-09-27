@@ -7,3 +7,4 @@ I write all the exercises I do on Medium with Turkish explanations. Link: https:
 
 ### Day003 <a href="https://github.com/edakass/100DaysOfJava/blob/main/Day003/Main.java">Two Sum - LeetCode</a></th>
 
+### Day004 <a href="https://github.com/edakass/100DaysOfJava/blob/main/Day004/Main.java">Dictionaries and Maps - HackerRank</a></th>
