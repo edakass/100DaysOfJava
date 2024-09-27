@@ -24,3 +24,28 @@ public class Main {
         in.close();
     }
 }
+/*
+7
+sam 10
+tom 11
+harry 12
+eda 13
+seda 14
+edam 155
+tom 167
+sam
+edward
+harry
+eda
+seda
+edam
+tom
+
+sam=10
+Not found
+harry=12
+eda=13
+seda=14
+edam=155
+tom=167
+ */
